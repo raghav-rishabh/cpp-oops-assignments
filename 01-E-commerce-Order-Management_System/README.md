@@ -65,8 +65,3 @@ After running, select an option from the menu and follow the instructions.
 - Conditional Statements
 - Basic Input and Output
 
-## Note
-
-This is a basic console-based project made for learning C++ and OOP.
-
-The payment system is only a simulation and does not process real payments.
